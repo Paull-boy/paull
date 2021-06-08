@@ -4,12 +4,13 @@ import os
 import sys
 
 
+print (" figlet fauzin | lolcat ")
 def main():
 	os.system('clear')
-	os.system('figlet papiking21')
+	os.system('figlet fauzin')
 	banner='''
-	[+]AUTHOR:Papi king21
-	[+]Youtube : Papi King21
+	[+]AUTHOR:fauzin09
+	[+]Instagram:ahmadasfhaniielbaihaqi
 	'''
 	print(banner)
 	no = input(' target : ')
